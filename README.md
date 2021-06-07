@@ -1,16 +1,10 @@
 ### Hi there 👋
 
-<!--
-**jinman36/jinman36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github. I am learning to code after a career with Special Operations. 
+- That role helped me find that I very passionate about working with diverse teams in order to accomplish difficult goals in often fluid environments. I strive for continual improvement and love learning everything I can.
 
-Here are some ideas to get you started:
+My current coding goals are
+🔭 I’m currently working on small projects to get prepared for something bigger!
+- 🌱 I’m currently learning HTML 5, CSS, JAvascript, React, Python
 
-- 🔭 I’m currently working on small projects to get prepared for something bigger!
-- 🌱 I’m currently learning HTML 5, CSS, JAvascript, Reaact, Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: www.linkedin.com/in/jefferyinman
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
