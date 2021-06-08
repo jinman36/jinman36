@@ -1,9 +1,11 @@
 <h2 align='center'> <i>Hi there 👋</h2>
 
-<img align="right" src="../img/SFlogo.jpg"  width="500">
+<img align="left" src="https://www.desktopbackground.org/p/2011/06/23/223638_us-army-special-forces-logo-id-25423-buzzerg_1038x1105_h.gif"  width="100">
 
 Welcome to my Github. I am learning to code after a career with Special Operations. 
 - That role helped me find that I very passionate about working with diverse teams in order to accomplish difficult goals in often fluid environments. I strive for continual improvement and love learning everything I can.
+ 
+</br>
 
 My current coding goals are:
 - 🔭 I’m currently working on small projects to get prepared for something bigger!
