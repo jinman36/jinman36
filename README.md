@@ -1,17 +1,15 @@
-<h2 align='center'> <i>Hi there 👋</h2>
+<h2 align='center'> <i>Welcome 👋</h2>
 
-<img align="left" src="https://www.desktopbackground.org/p/2011/06/23/223638_us-army-special-forces-logo-id-25423-buzzerg_1038x1105_h.gif"  width="100">
+<img align="right" src="https://jinman36.github.io/jinman36/img/SFlogo.jpg" width="200">
 
-Welcome to my Github. I am learning to code after a career with Special Operations. 
-- That role helped me find that I very passionate about working with diverse teams in order to accomplish difficult goals in often fluid environments. I strive for continual improvement and love learning everything I can.
+Welcome to my Github page. I'm learning to code and enjoying every minute of it!
+- I've always been passionate about working with diverse teams in order to accomplish difficult goals. I strive for continual improvement and love learning everything I can.
  
 </br>
 
-My current coding goals are:
+**My current coding goals are:**
 - 🔭 I’m currently working on small projects to get prepared for something bigger!
 - 🌱 I’m currently learning HTML 5, CSS, JAvascript, React, Python
-
-**Just learned this trick, so more to come!**
 
 </br>
 
@@ -35,3 +33,8 @@ My current coding goals are:
     </td>
 </tr>
 </table>
+
+
+<!-- Credit to the following for the help with setting up the above:
+https://github.com/AL0YSI0US
+https://github.com/Ashutosh00710 -->
