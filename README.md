@@ -15,15 +15,9 @@ Welcome to my Github page. I'm learning to code and enjoying every minute of it!
 
 </br>
 
-<h2 align='center'><i><a href="https://github.com/jinman36/github-readme-activity-graph">Activity Graph 📈</i></h2>
-<p align="center">
-<a href="https://github.com/jinman36/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=jinman36&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>
-</p>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jinman36&bg_color=000000&color=4c699e&line=4c529e&point=0da80b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </br>
-
 
 <h3 align='center'><i>Social Media</i></h3>
 <p align='center'>
