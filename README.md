@@ -10,8 +10,7 @@ Welcome to my Github page. I'm learning to code and enjoying every minute of it!
 </br>
 
 **My current coding goals are:**
-- 🔭 I’m currently working on small projects to get prepared for something bigger!
-- 🌱 I’m currently learning HTML 5, CSS, JAvascript, React, Python
+- 🌱 I’m currently learning HTML 5, CSS, Javascript, React, Python
 
 </br>
 
