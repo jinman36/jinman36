@@ -14,8 +14,8 @@ Welcome to my Github page. I'm learning to code and enjoying every minute of it!
 
 </br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jinman36&bg_color=000000&color=4c699e&line=4c529e&point=0da80b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<!-- [![Jeff's github activity graph](https://activity-graph.herokuapp.com/graph?username=jinman36&bg_color=000000&color=4c699e&line=4c529e&point=0da80b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ -->
 </br>
 
 <h3 align='center'><i>Social Media</i></h3>
