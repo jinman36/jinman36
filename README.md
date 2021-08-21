@@ -12,7 +12,7 @@ Welcome to my Github page. I'm learning to code and enjoying every minute of it!
  <a href="https://www.linkedin.com/in/jefferyinman/"><img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" width="60" align="center"></a>
 
 <br>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+-------------------------------------------------------------------------------------------------------------------------------------------------------<br>
 **My current coding goals are:** <br>
 - 🌱 I’m currently learning HTML 5, CSS, Javascript, React, Python
 
@@ -38,15 +38,6 @@ Education
 [![Jeff's github activity graph](https://activity-graph.herokuapp.com/graph?username=jinman36&bg_color=000000&color=4c699e&line=4c529e&point=0da80b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </br>
-
-<h3 align='center'><i>Social Media</i></h3>
-<p align='center'>
- <table width="100" align='center'>
-<tr align="center">
-        <a href="www.linkedin.com/in/jefferyinman"><img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" width="60" align="center"></a>
-
-</tr>
-</table>
 
 
 <!-- Credit to the following for the help with setting up the above:
