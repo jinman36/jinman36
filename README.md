@@ -12,7 +12,6 @@ Welcome to my Github page. I'm learning to code and enjoying every minute of it!
  <a href="https://www.linkedin.com/in/jefferyinman/"><img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" width="60" align="center"></a>
 <br>
 -------------------------------------------------------------------------------------------------------------------------------------------------------<br>
-**My current coding goals are:** <br>
 - 🌱 I’m currently learning HTML 5, CSS, Javascript, React, Python
 
 Education
