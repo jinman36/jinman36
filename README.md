@@ -8,8 +8,12 @@ Welcome to my Github page. I'm learning to code and enjoying every minute of it!
 - I've always been passionate about working with diverse teams to accomplish difficult goals. I strive for continual improvement and building things, which is what brought me to coding where I found there is always something new to learn and the only limit to new ways to innovate and create, really is your own imagination.
  
 </br>
+<h3 align='center'><i>Please visit my Linkedin below</i></h3>
+ <a href="https://www.linkedin.com/in/jefferyinman/"><img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" width="60" align="center"></a>
 
-**My current coding goals are:**
+<br>
+-------------------------------------------------------------------------------------<br>
+**My current coding goals are:** <br>
 - 🌱 I’m currently learning HTML 5, CSS, Javascript, React, Python
 
 Education
@@ -38,9 +42,9 @@ Education
 <h3 align='center'><i>Social Media</i></h3>
 <p align='center'>
  <table width="100" align='center'>
-<tr>
-        <a href="www.linkedin.com/in/jefferyinman"><img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" width="60"></a>
-    </td>
+<tr align="center">
+        <a href="www.linkedin.com/in/jefferyinman"><img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" width="60" align="center"></a>
+
 </tr>
 </table>
 
