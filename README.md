@@ -4,7 +4,7 @@
  
 <img align="right" src="https://jinman36.github.io/jinman36/img/SFlogo.jpg" width="200" border="6cc644">
 
-Welcome to my Github page. I'm learning to code and enjoying every minute of it!
+Welcome to my Github page. Learning to code and enjoying every minute of it!
 - I've always been passionate about working with diverse teams to accomplish difficult goals. I strive for continual improvement and building things, which is what brought me to coding where I found there is always something new to learn and the only limit to new ways to innovate and create, really is your own imagination.
  
 </br>
