@@ -5,12 +5,29 @@
 <img align="right" src="https://jinman36.github.io/jinman36/img/SFlogo.jpg" width="200" border="6cc644">
 
 Welcome to my Github page. I'm learning to code and enjoying every minute of it!
-- I've always been passionate about working with diverse teams in order to accomplish difficult goals. I strive for continual improvement and love learning everything I can.
+- I've always been passionate about working with diverse teams to accomplish difficult goals. I strive for continual improvement and building things, which is what brought me to coding where I found there is always something new to learn and the only limit to new ways to innovate and create, really is your own imagination.
  
 </br>
 
 **My current coding goals are:**
 - 🌱 I’m currently learning HTML 5, CSS, Javascript, React, Python
+
+Education
+
+[Code Fellows](https://www.codefellows.org/) <br>
+[Vets in Tech](https://vetsintech.co/) <br>
+[Codecademy](https://www.codecademy.com/learn)
+
+**Completed**
+- Code 101 - Code Fellows
+- Code 102 - Code Fellows
+- Code 201 - Code Fellows
+- Ops 101 - Code Fellows
+
+**Current Programs**
+- Code 301 18 Sept - 18 Nov - Code Fellows
+- Python Learning Fundamental 23 Aug - 17 Sept - Vets in Tech
+- Computer Science Career Path - Codecademy
 
 </br>
 
