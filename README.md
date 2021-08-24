@@ -8,7 +8,7 @@ Welcome to my Github page. Learning to code and enjoying every minute of it!
 - I've always been passionate about working with diverse teams to accomplish difficult goals. I strive for continual improvement and building things, which is what brought me to coding where I found there is always something new to learn and the only limit to new ways to innovate and create, really is your own imagination.
  
 </br>
-<h3 align='center'><i>Check out my linkin in here</i></h3>
+<h3 align='center'><i>Check out my linkin here</i></h3>
  <a href="https://www.linkedin.com/in/jefferyinman/"><img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" width="60" align="center"></a>
 <br>
 -------------------------------------------------------------------------------------------------------------------------------------------------------<br>
