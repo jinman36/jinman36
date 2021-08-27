@@ -27,8 +27,8 @@ Education
 - Ops 101 - Code Fellows
 
 **Current Programs**
-- Code 301 18 Sept - 18 Nov - Code Fellows
 - Python Learning Fundamental 23 Aug - 17 Sept - Vets in Tech
+- Code 301 18 Sept - 18 Nov - Code Fellows
 - Computer Science Career Path - Codecademy
 
 </br>
