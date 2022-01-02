@@ -19,16 +19,18 @@ Education
 [Code Fellows](https://www.codefellows.org/) <br>
 [Vets in Tech](https://vetsintech.co/) <br>
 [Codecademy](https://www.codecademy.com/learn)
+[Infosec]
 
 **Current Programs**
-- Code 301 18 Sept - 18 Nov - Code Fellows
 - Computer Science Career Path - Codecademy
 
 **Completed**
 - Code 101 - Code Fellows
 - Code 102 - Code Fellows
 - Code 201 - Code Fellows
-- Ops 101 - Code Fellows
+- Code 301 - Code Fellows
+- Ops 101  - Code Fellows
+- Comptia Security + Certification
 - Python Learning Fundamental - Vets in Tech
 
 </br>
