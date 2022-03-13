@@ -11,6 +11,8 @@
 <h3 align='center'><i>Check out my LinkedIn below</i></h3>
  <a href="https://www.linkedin.com/in/jefferyinman/"><img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" width="60" align="center"></a>
 <br>
+
+<script src="https://tryhackme.com/badge/333971"></script>
 -------------------------------------------------------------------------------------------------------------------------------------------------------<br>
 - 🌱 I’m currently learning HTML 5, CSS, Javascript, React, Python
 
