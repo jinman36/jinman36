@@ -15,11 +15,11 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------<br>
 - 🌱 I’m currently learning HTML 5, CSS, Javascript, React, Python
 
-Education
+Education <br>
 [A Cloud Guru](https://acloudguru.com) <br>
 [Code Fellows](https://www.codefellows.org/) <br>
 [Vets in Tech](https://vetsintech.co/) <br>
-[Codecademy](https://www.codecademy.com/learn)
+[Codecademy](https://www.codecademy.com/learn) <br>
 [Infosec]
 
 **Current Programs**
