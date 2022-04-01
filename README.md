@@ -15,13 +15,6 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------<br>
 - 🌱 I’m currently focused on cyber security and solidifying my knowledge base with linux, metasploit, burb suite, wireshark, and other kali linux based tools. Foundational working skill with HTML 5, CSS, Javascript, React, and Python.
 
-Education <br>
-[A Cloud Guru](https://acloudguru.com) <br>
-[Code Fellows](https://www.codefellows.org/) <br>
-[Vets in Tech](https://vetsintech.co/) <br>
-[Codecademy](https://www.codecademy.com/learn) <br>
-[Infosec]
-
 **Current Programs**
 - OSCP **In-Progress** 1 Aug 2022
 
@@ -34,6 +27,15 @@ Education <br>
 - AWS Certified Cloud Practitioner
 - Comptia Security + Certification
 - Python Learning Fundamental - Vets in Tech
+
+Education <br>
+[A Cloud Guru](https://acloudguru.com) <br>
+[Code Fellows](https://www.codefellows.org/) <br>
+[Vets in Tech](https://vetsintech.co/) <br>
+[Codecademy](https://www.codecademy.com/learn) <br>
+[Infosec](https://www.infosecinstitute.com/) <br>
+[TryHackMe](https://www.tryhackme.com/)
+
 
 </br>
 
