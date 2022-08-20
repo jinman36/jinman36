@@ -15,9 +15,6 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------<br>
 - 🌱 I’m currently focused on cyber security and solidifying my knowledge base with linux, metasploit, burb suite, wireshark, and other kali linux based tools. Foundational working skill with HTML 5, CSS, Javascript, React, and Python.
 
-**Current Programs**
-- OSCP **In-Progress** 1 Aug 2022
-
 **Completed**
 - Code 101 - Code Fellows
 - Code 102 - Code Fellows
